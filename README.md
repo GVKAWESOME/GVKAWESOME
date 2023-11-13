@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GVKAWESOME
+- 👋 Hi, I’m @GVK
 - 👀 I’m interested in Android roms
 - 🌱 I’m currently learning how to build a rom for an unsupported device
 - 💞️ I’m looking to collaborate on building roms
